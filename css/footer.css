@@ -1,0 +1,250 @@
+.helps {
+    background: #96c9e9;
+    padding-top: 114px;
+}
+
+.help__p {
+    font-family: var(--rr);
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 57px;
+    text-align: center;
+    color: var(--green);
+    max-width: 726px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.help__p2 {
+    font-family: var(--rr);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: var(--green);
+    margin-bottom: 45px;
+}
+
+.btn {
+    padding: 1px 95px 1px 45px;
+    display: flex;
+    margin: 0 auto;
+    background: var(--green);
+    border: 1px solid var(--green);
+    transition: 0.3s;
+}
+
+.help__btn {
+    font-family: var(--rr);
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 57px;
+    color: white;
+}
+
+.btn:hover {
+    background: #96c9e9;
+    color: var(--green);
+}
+
+.helps__text {
+    position: relative;
+}
+
+.polos {
+    position: absolute;
+    right: 160px;
+    margin-top: -30px;
+}
+
+.help__save {
+    background: #96c9e9;
+    position: relative;
+    padding-top: 393px;
+}
+
+.green__back {
+    width: 100%;
+    display: flex;
+}
+
+.footer {
+    background: var(--green);
+}
+
+.footer__save {
+    position: relative;
+}
+
+.moun__tine {
+    width: 100%;
+    margin-top: -8%;
+    margin-bottom: -4%;
+}
+
+.footer__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 83px;
+}
+
+.footer__get {
+    font-family: var(--rr);
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 52px;
+    color: white;
+    margin-bottom: 35px;
+}
+
+.footer__health {
+    font-family: var(--rr);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #cbd0d5ba;
+    max-width: 392px;
+    margin-bottom: 38px;
+}
+
+.footer__btn {
+    padding: 0 68px 0 25px;
+    background: #b961cd;
+    border: none;
+    font-family: var(--rr);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.footer__btn:hover {
+    color: #b961cd;
+    background: var(--green);
+    border: 1px solid #b961cd;
+}
+
+.reviw__bor {
+    height: 244px;
+    width: 550px;
+    background: #0c3834;
+    padding: 30px 51px 54px 33px;
+}
+
+.reviw__wrap {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.blog {
+    font-family: var(--green);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 4px;
+    color: #cbd0d591;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.blog__p {
+    font-family: var(--rr);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #cfd4d8;
+    margin-bottom: 43px;
+}
+
+.blog__p2 {
+    font-family: var(--rr);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 13px;
+    color: #cfd4d8;
+    padding-bottom: 11px;
+    border-bottom: 1px solid #cbd0d5ba;
+    max-width: 76px;
+}
+
+.blog__line {
+    border-bottom: 1px solid #2c6862;
+}
+
+.footer__blog {
+    padding: 78px 0 70px
+}
+
+.footer__p-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 66px;
+
+}
+
+.footer__logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 19px;
+    margin-bottom: -20%;
+
+}
+
+.footer__menu-all {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 50%;
+}
+
+.footer__p-menu {
+    font-family: var(--rr);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 19px;
+}
+
+.footer__menu-this {
+    display: grid;
+    gap: 3px;
+}
+
+.footer__p {
+    font-family: var(--rr);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #cbd0d5ba;
+}
+
+.footer__link {
+    font-family: var(--rr);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #CBD0D5BA;
+
+}
+
+.footer__p-last {
+    font-family: var(--rr);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #CBD0D5BA;
+    margin-top: 44px;
+}

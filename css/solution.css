@@ -1,0 +1,148 @@
+.solution {
+  padding: 99px 0 80px;
+}
+
+.solution__h {
+  font-family: var(--rr);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: var(--green);
+  letter-spacing: 4px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.solution__p {
+  font-family: var(--rr);
+  font-size: 49px;
+  font-weight: 400;
+  color: var(--green);
+  max-width: 702px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 46px;
+}
+
+.color__wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.green {
+  height: 789px;
+  width: 570px;
+  background: var(--green);
+}
+
+.color__text {
+  padding: 437px 0 46px;
+}
+
+.blue {
+  height: 789px;
+  width: 570px;
+  background: var(--blue);
+}
+
+.crede {
+  font-family: var(--rr);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  padding-bottom: 32px;
+  text-align: center;
+  color: var(--green);
+  transition: 0.3s;
+  max-width: 367px;
+  margin: 0 auto;
+}
+
+.crede:hover {
+  color: #cfd4d8;
+}
+
+.green__text {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  padding-bottom: 94px;
+  color: var(--green);
+  transition: 0.3s;
+  max-width: 367px;
+  margin: 0 auto;
+}
+
+.green__texts {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  transition: 0.3s;
+  color: var(--green);
+  max-width: 387px;
+  margin: 0 auto;
+}
+
+.green__texts:hover {
+  color: #cfd4d8;
+}
+
+.green__text:hover {
+  color: #cfd4d8;
+}
+
+
+
+.blue__p1 {
+  font-family: var(--rr);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  color: var(--blue);
+  padding-bottom: 32px;
+  transition: 0.3s;
+}
+
+.blue__p1 {
+  color: #cfd4d8;
+}
+
+.blue__p2 {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: var(--blue);
+  padding-bottom: 94px;
+  transition: 0.3s;
+  max-width: 367px;
+  margin: 0 auto;
+}
+
+.blue__p3 {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: var(--blue);
+  transition: 0.3s;
+  margin: 0 auto;
+  max-width: 379px;
+}
+
+.blue__p2:hover {
+  color: #cfd4d8;
+}
+
+.blue__p3:hover {
+  color: #cfd4d8;
+}

@@ -1,0 +1,10 @@
+.logos{
+    display: flex;
+    position: relative;
+
+    gap: 59px;
+    margin-left: 56%;
+}
+.our{
+    padding: 99px 0 101px;
+}
